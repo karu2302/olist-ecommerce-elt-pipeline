@@ -28,7 +28,6 @@ Built during a data analysis internship to get hands-on experience with the core
          (orchestrates all 4 stages)
 ```
 
-*(Replace this text diagram with `screenshots/architecture_diagram.png` if you build one in draw.io — optional but a nice touch.)*
 
 ## Tech stack
 
